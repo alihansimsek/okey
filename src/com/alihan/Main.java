@@ -26,7 +26,7 @@ public class Main {
 
 
         for(int i=0;i<players.length;i++)
-            players[i].calculatePoint(okey,gosterge);
+            players[i].calculatePoint(okey);
 
         endGame(players);
 
