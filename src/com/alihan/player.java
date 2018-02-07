@@ -25,7 +25,7 @@ public class player {
         this.point = point;
     }
 
-    public void calculatePoint(int okey, int gosterge){
+    public void calculatePoint(int okey){
         Arrays.sort(hand);
         int i=0,y=0;
         int j=i+1;
